@@ -464,7 +464,7 @@ namespace Project2
                         }
                     }
                 }
-                else if (valOptions[y] == "No Designation")
+                else if (valOptions[y] == "No designation")
                 {
                     for (int z = 2; z < presidents.Length; z++)
                     {
@@ -768,7 +768,7 @@ namespace Project2
                         }
                     }
                 }
-                else if (valOptions[y] == "No Designation")
+                else if (valOptions[y] == "No designation")
                 {
                     for (int z = 2; z < presidents.Length; z++)
                     {
