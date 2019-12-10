@@ -1,0 +1,9 @@
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.Cache
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\stoerit\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.pdb
